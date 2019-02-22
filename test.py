@@ -1,3 +1,4 @@
+import main
 
 if __name__ == "__main__":
-    pass
+    main.get_METAR("atl")
